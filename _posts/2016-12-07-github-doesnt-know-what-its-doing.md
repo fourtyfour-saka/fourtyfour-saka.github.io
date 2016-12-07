@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GitHub Pages.
+category: coding
 ---
 
 As part of setting up this blog, I had to redirect my existing webpage (ljenglish.net) to point to my GitHub .io page. One would expect this to be a well-documented exercise on the part of GitHub, Inc., right?
