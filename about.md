@@ -30,4 +30,4 @@ Some fun facts about the setup of this project include:
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
 * Coded with [Sublime Text 3](http://sublimetext.com), an amazing code editor
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/fourtyfour-saka/issues/new) or [ask me on Twitter](https://twitter.com/lj_english).
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/fourtyfour-saka/fourtyfour-saka.github.io/issues/new) or [ask me on Twitter](https://twitter.com/lj_english).
