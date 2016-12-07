@@ -13,6 +13,7 @@ Specifically, in addition to making observations about life in general, I'd like
 
 * Medicine and the study thereof
     * (quite possibly the combination thereof with machine learning/compsci in general)
+* [Mental Bayesian updating](https://arbital.com/p/61b/?startPath)
 * [Gregg](http://gregg.angelfishy.net/) shorthand
 * Music
 * [N-back](http://www.gwern.net/N-back%20FAQ.html)
