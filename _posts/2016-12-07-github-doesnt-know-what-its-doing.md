@@ -1,9 +1,7 @@
 ---
 layout: post
-title: GitHub Pages doesn't know what it's doing.
+title: GitHub Pages.
 ---
-
-### Don't rely on GitHub to be able to help you with your problems.
 
 As part of setting up this blog, I had to redirect my existing webpage (ljenglish.net) to point to my GitHub .io page. One would expect this to be a well-documented exercise on the part of GitHub, Inc., right?
 
