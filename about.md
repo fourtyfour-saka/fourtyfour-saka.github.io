@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about
 ---
 
 Hi there. My name is Luke English, and I'm a computer scientist.
