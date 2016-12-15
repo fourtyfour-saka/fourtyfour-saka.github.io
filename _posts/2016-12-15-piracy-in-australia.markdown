@@ -27,6 +27,5 @@ When any given person in Australia can watch anything they choose to watch in an
 
 #### Notes
 
-[^1]: (Game of Thrones Premiere Triggers Piracy Craze)[https://torrentfreak.com/game-of-thrones-premiere-triggers-piracy-craze-140407/], TorrentFreak.com
-
-[^2]: (Foxtel Residential Pricing Guide)[https://www.foxtel.com.au/content/dam/foxtel/support/pdf/residential-pricing-guide.pdf], Foxtel.com.au
+[^1]: [Game of Thrones Premiere Triggers Piracy Craze](https://torrentfreak.com/game-of-thrones-premiere-triggers-piracy-craze-140407/), TorrentFreak.com
+[^2]: [Foxtel Residential Pricing Guide](https://www.foxtel.com.au/content/dam/foxtel/support/pdf/residential-pricing-guide.pdf), Foxtel.com.au
